@@ -32,10 +32,10 @@
 # animals = ["cat", "dog", "rabbit", "wolf"]
 # animals.remove("lion")
 
-# for i in range(2,10):
-#     if i%5==0:
-#         break
-#     print(i)
+for i in range(2,10):
+    if i%5==0:
+        break
+    print(i)
 
 office_supplies = ["pen", "paper", "stapler"]
 kitchen_supplies = ["fork", "knife", "spoon"]
